@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+body {
+    background-color: #78a3b8; 
+}
+.historia {
+    background-color: #576ca5; /* Color de fondo para Historia */
+    padding: 20px; /* Espaciado interior */
+    border-radius: 5px; /* Bordes redondeados */
+    margin: auto !important;
+}
+
+.mision {
+    background-color: #4f5dac; /* Color de fondo para Misión */
+    padding: 20px; /* Espaciado interior */
+    border-radius: 5px; /* Bordes redondeados */
+    margin: 0 auto !important;
+}
+
+.form-row {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px; /* Ancho máximo del formulario */
+}
+.container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
