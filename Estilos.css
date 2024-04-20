@@ -10,24 +10,31 @@
 body {
     background-color: #78a3b8; 
 }
+.TextInicio{
+    background-color: #ffffff; 
+    padding: 20px; 
+    border-radius: 80px; 
+    margin-right: 50;
+    margin-left: 50;
+}
 .historia {
-    background-color: #576ca5; /* Color de fondo para Historia */
-    padding: 20px; /* Espaciado interior */
-    border-radius: 5px; /* Bordes redondeados */
+    background-color: #576ca5;
+    padding: 20px; 
+    border-radius: 5px;
     margin: auto !important;
 }
 
 .mision {
-    background-color: #4f5dac; /* Color de fondo para Misión */
-    padding: 20px; /* Espaciado interior */
-    border-radius: 5px; /* Bordes redondeados */
+    background-color: #4f5dac; 
+    padding: 20px; 
+    border-radius: 5px; 
     margin: 0 auto !important;
 }
 
 .form-row {
     margin-left: auto;
     margin-right: auto;
-    max-width: 800px; /* Ancho máximo del formulario */
+    max-width: 800px; 
 }
 .container {
     padding-right: 0;
@@ -38,4 +45,7 @@ body {
 .container-fluid {
     padding-right: 0;
     padding-left: 0;
+}
+.parrafotexto {
+    color: aliceblue;
 }
